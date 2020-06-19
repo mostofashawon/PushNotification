@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PushNotification</string>
+
+    <string name="splash_text"> WelCome to the Application   </string>
+    <string name="login_register"> Are you not Register ?  </string>
+    <string name="for_signup">  Click here for SignUp    </string>
+    <string name="login_email_hint">  Enter Mail  </string>
+    <string name="login_pass_hint"> Enter Password  </string>
+    <string name="login_button"> LogIn  </string>
+    <string name="signup_button"> SignUp  </string>
+    <string name="signemai"> Enter Mail  </string>
+    <string name="signuppass"> Enter Pass  </string>
+    <string name="join_namehint"> Enter Date  </string>
+    <string name="join_hobbyhint"> Enter Task   </string>
+    <string name="join_button"> Add </string>
+    <string name="show_btn"> Show   </string>
+    <string-array name="spinner_item">
+
+        <item> 8AM  </item>
+        <item> 10AM </item>
+
+    </string-array>
+
+    <string name="notification"> Choose Notification Time </string>
+
+</resources>
